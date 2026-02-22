@@ -69,4 +69,4 @@ Adobe Stock – 3D Assets — modelos royalty-free.
 <https://stock.adobe.com/3d-assets>
 
 Sempre prefiro da própria loja da Unity pois tente a ser mais compatíveis:
-<⁠https://assetstore.unity.com>
+<https://assetstore.unity.com>
