@@ -95,9 +95,7 @@ E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120
 ### VSCode
 
 - extensões
-  - Debugger: <https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug>
-  - <https://marketplace.visualstudio.com/items?itemName=Tobiah.unity-tools>
-  - <https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets>
+  - Microsoft: <https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc>  
 
 ## Linguagem de Programação (C#)
 
@@ -123,8 +121,6 @@ E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120
 - editar Cubo.cs no VSCode - Update()
   - [Transform-position](<https://docs.unity3d.com/ScriptReference/Transform-position.html>)
   - Debug.Log(transform.position)
-
-## Debug
 
 ## Emulador (device)
 
