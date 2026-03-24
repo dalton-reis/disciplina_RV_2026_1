@@ -129,7 +129,6 @@ E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120
 ## Emulador (device)
 
 - Android [Unity Remote 5](<https://play.google.com/store/apps/details?id=com.unity3d.mobileremote>)
-- [Unity Reflect](<https://play.google.com/store/apps/details?id=com.Unity.Reflect.Viewer>)
 - [Reflect](<https://unity.com/products/unity-reflect>)
 
 ## Assets
